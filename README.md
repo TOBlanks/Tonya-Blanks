@@ -1,30 +1,30 @@
-# 👋 Hi, I’m Tonya O. Blanks, PMP®, CSM, LSSGB
+# 👋 Welcome to My Portfolio
 
-🎯 **Senior Program Manager | Transformation Leader | AI Adoption Strategist**
-
-I bring 16+ years of experience leading **enterprise-scale programs** across healthcare, insurance, telecom, and technology-driven industries. I thrive on guiding complex projects from strategy to execution — whether that means managing post-merger integrations, modernizing business processes, or building out new PMOs.  
-
-Alongside my core program management expertise, I have a strong passion for **AI adoption and business transformation**. I help organizations explore AI use cases, design adoption roadmaps, and deliver training that accelerates responsible enterprise-wide adoption.  
-
----
-
-## 🌟 What I Do
-- Lead **programs and portfolios** across industries (healthcare, insurance, telecom, and more)  
-- Deliver **AI-enabled PMO frameworks** (charters, risk logs, automation)  
-- Guide **change management, adoption strategies, and executive reporting**  
-- Champion **Responsible AI, ethics, and governance** in business workflows  
+I’m **Tonya O. Blanks, PMP®, CSM, LSSGB** — a Program Manager and AI Adoption Strategist.  
+This GitHub serves as a showcase of my work at the intersection of **program management, digital transformation, and applied AI adoption**.  
 
 ---
 
 ## 📂 Featured Projects
+
 - [AI PMO-in-a-Box Toolkit](https://github.com/tonyablanks/ai-pmo-toolkit)  
-- [AI Adoption Roadmap Framework](https://github.com/tonyablanks/ai-adoption-roadmap)  
-- [AI Workflow Automation for Compliance & Reporting](https://github.com/tonyablanks/ai-workflow-automation)  
+  Framework of AI-powered PMO templates (charters, risk logs, trackers) embedding generative AI prompts into workflows.
+
+- [AI Adoption Roadmap Framework](https://github.com/tonyablanks/AI-Adoption-Roadmap-Framework)  
+  Multi-year roadmap guiding organizations from pilot projects to enterprise-wide AI adoption, with governance and metrics.
+
+- [AI Workflow Automation for Compliance & Reporting](https://github.com/tonyablanks/AI-Workflow-Automation-for-Compliance-Reporting)  
+  Sample workflows showing how AI tools streamline compliance reporting and meeting documentation.
 
 ---
 
-## 📫 Let’s Connect
+## 💡 About Me
+With 16+ years of experience, I lead enterprise-scale programs across healthcare, insurance, and technology.  
+I specialize in **business process transformation, change management, and building adoption strategies** for new technologies — with a strong focus on **Responsible AI**.
+
+---
+
+## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/tonyablankspmp)  
-- ✉️ Email: **tonyablanks@gmail.com**  
+- ✉️ Email: **tonyablanks@gmail.com**
 
----
