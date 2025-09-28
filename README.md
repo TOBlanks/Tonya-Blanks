@@ -18,8 +18,7 @@ I’m **Tonya O. Blanks, PMP®, CSM, LSSGB** — a Program Manager and AI Adopti
 ---
 
 ## 💡 About Me
-With 16+ years of experience, I lead enterprise-scale programs across healthcare, insurance, and technology.  
-I specialize in **business process transformation, change management, and building adoption strategies** for new technologies — with a strong focus on **Responsible AI**.
+With over 2 decades of Project Management experience, I have led enterprise-scale projects through transition from mergers and aquisitions through the introduction of major technologies like internet bill pay, speech regonition, and now AI. As a consultant, I have successfully applied PMI/PMP and gut instinct to deliver projects and programs across many sectors for major clients like American Airlines, Sprint, Motorola, St. Vincent's Hospital, St. Lukes Hospital, Allstate, United Healthcare, Wellcare, Centene, Sandshills Center and Impresiv Health. I specialize in **business process transformation, change management, and building adoption strategies** for new technologies — with a strong focus on **Responsible AI**.
 
 ---
 
