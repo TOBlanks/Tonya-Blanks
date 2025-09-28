@@ -1,7 +1,6 @@
 # 👋 Welcome to My Portfolio
 
-I’m **Tonya O. Blanks, PMP®, CSM, LSSGB** — a Program Manager and AI Adoption Strategist.  
-This Portofolio serves as a high level view of conceptual work at the intersection of **program management, digital transformation, and applied AI adoption**.  Details provided during presentation and walkthrough.
+I’m **Tonya O. Blanks, PMP®, CSM, LSSGB** — a Program Manager and AI Adoption Strategist. This Portofolio serves as a high level view of conceptual work at the intersection of **program management, digital transformation, and applied AI adoption**. Details provided during presentation and walkthrough.
 
 ---
 
