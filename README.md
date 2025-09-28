@@ -1,7 +1,7 @@
 # 👋 Welcome to My Portfolio
 
 I’m **Tonya O. Blanks, PMP®, CSM, LSSGB** — a Program Manager and AI Adoption Strategist.  
-This GitHub serves as a showcase of my work at the intersection of **program management, digital transformation, and applied AI adoption**.  
+This Portofolio serves as a high level view of conceptual work at the intersection of **program management, digital transformation, and applied AI adoption**.  
 
 ---
 
@@ -11,7 +11,7 @@ This GitHub serves as a showcase of my work at the intersection of **program man
  A conceptual example of how AI can be applied to project management operations to improve structure, consistency, and adoption. Illustrative templates and samples available upon request.
 
 - [AI Adoption Roadmap Framework](https://github.com/tonyablanks/AI-Adoption-Roadmap-Framework)  
-  Multi-year roadmap guiding organizations from pilot projects to enterprise-wide AI adoption, with governance and metrics.
+  Conceptual roadmap model for organizations scaling AI initiatives.
 
 - [AI Workflow Automation for Compliance & Reporting](https://github.com/tonyablanks/AI-Workflow-Automation-for-Compliance-Reporting)  
   This project showcases how AI can automate compliance reporting and meeting documentation, reducing manual effort and improving accuracy across enterprise workflows.
