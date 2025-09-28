@@ -8,7 +8,7 @@ This GitHub serves as a showcase of my work at the intersection of **program man
 ## 📂 Featured Projects
 
 - [AI PMO-in-a-Box Toolkit](https://github.com/tonyablanks/ai-pmo-toolkit)  
-  Framework of AI-powered PMO templates (charters, risk logs, trackers) embedding generative AI prompts into workflows.
+ A conceptual example of how AI can be applied to project management operations to improve structure, consistency, and adoption. Illustrative templates and samples available upon request.
 
 - [AI Adoption Roadmap Framework](https://github.com/tonyablanks/AI-Adoption-Roadmap-Framework)  
   Multi-year roadmap guiding organizations from pilot projects to enterprise-wide AI adoption, with governance and metrics.
