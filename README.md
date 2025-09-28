@@ -14,7 +14,7 @@ This GitHub serves as a showcase of my work at the intersection of **program man
   Multi-year roadmap guiding organizations from pilot projects to enterprise-wide AI adoption, with governance and metrics.
 
 - [AI Workflow Automation for Compliance & Reporting](https://github.com/tonyablanks/AI-Workflow-Automation-for-Compliance-Reporting)  
-  Sample workflows showing how AI tools streamline compliance reporting and meeting documentation.
+  This project showcases how AI can automate compliance reporting and meeting documentation, reducing manual effort and improving accuracy across enterprise workflows.
 
 ---
 
